@@ -2,47 +2,32 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: L-less的博客
+tagline: 在代码的兵荒马乱中，留下一片绿洲
 heroFullScreen: true
 projects:
-  - icon: project
-    name: project name
+  - icon: project 项目
+    name: project
     desc: project detailed description
-    link: https://your.project.link
+    link: https://github.com/L-less
 
   - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
-
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+    name: AI
+    desc: GPT镜像站
+    link: https://Poe.com
 
   - icon: article
     name: article name
     desc: Detailed description of the article
     link: https://link.to.your.article
 
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
-
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: custom item
+    name: my jekyll web site
     desc: Detailed description of this custom item
-    link: https://link.to.your.friend
+    link: https://l-less.github.io/h2o
 
 footer: customize your footer text
 ---
 
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
