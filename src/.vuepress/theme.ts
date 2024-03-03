@@ -24,7 +24,6 @@ export default hopeTheme({
       BiliBili: "https://space.bilibili.com/3493095094093888?spm_id_from=333.1007.0.0",
       Email: "endless-ex@outlook.com",
       GitHub: "https://github.com/L-less/",
-      MrHope: ["https://l-less.github.io", MR_HOPE_AVATAR],
     },
   },
 
@@ -41,7 +40,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "古人云，道阻且长，行则将至",
         intro: "/intro.html",
       },
 
@@ -62,7 +61,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "古人云，道阻且长，行则将至",
         intro: "/zh/intro.html",
       },
 
