@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://https:/l-less.github.io/vue/sitemap.xml
+Sitemap: https://https:/l-less.github.io/sitemap.xml
