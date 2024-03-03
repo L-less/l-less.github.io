@@ -28,6 +28,6 @@ projects:
     desc: Detailed description of this custom item
     link: https://l-less.github.io/h2o
 
-footer: customize your footer text
+footer: A.n.y
 ---
 
