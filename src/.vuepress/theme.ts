@@ -56,7 +56,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "A.n.y",
 
       displayFooter: true,
 
@@ -81,13 +81,11 @@ export default hopeTheme({
   plugins: {
     blog: true,
 
-    // install @waline/client before enabling it
-    // WARNING: This is a test server for demo only.
-    // You should create and use your own comment service in production.
-    // comment: {
-    //   provider: "Waline",
-    //   serverURL: "https://waline-comment.vuejs.press",
-    // },
+
+  comment: {
+       provider: "Waline",
+       serverURL: "https://waline-1-v2177860.deta.app",
+     },
 
     components: {
       components: ["Badge", "VPCard"],
