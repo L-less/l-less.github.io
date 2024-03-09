@@ -21,7 +21,7 @@ projects:
   - icon: article
     name: article name
     desc: Detailed description of the article
-    link: https://link.to.your.article
+    link: https://l-less.github.io/article/
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
     name: my jekyll web site
