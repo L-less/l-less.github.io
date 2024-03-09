@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://s21.ax1x.com/2024/03/09/pFsTBM8.png
 heroText: L-less的小站
 heroFullScreen: true
 tagline: 在代码的兵荒马乱中，留下一片绿洲
