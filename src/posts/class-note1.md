@@ -21,6 +21,12 @@ example:\
    .image {
    float:left;
    }
-```\
+```
+
 `<a href="">Test</a>`\
 链接
+
+target=
+1._blank
+2.self
+3.parent
