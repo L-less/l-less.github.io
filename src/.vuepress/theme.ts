@@ -13,9 +13,8 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://s21.ax1x.com/2024/03/14/pFglDSO.jpg",
+  logo: "https://s21.ax1x.com/2024/03/14/pFglI1S.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
@@ -35,7 +34,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "灵感",
 
       displayFooter: true,
 
