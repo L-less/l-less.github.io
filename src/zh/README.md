@@ -21,7 +21,7 @@ projects:
   - icon: article
     name: 文章名称
     desc: 文章详细描述
-    link: https://example.com
+    link: https://l-less.github.io/article/
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
     name: 该站的jekyll版本
