@@ -44,10 +44,10 @@ icon: pen-to-square
 <p>Test</p>
 ```
 css语法：\
-`display:inline`\
+`display:inline`
 > 转换为行内元素
 
-`display:block`\
+`display:block`
 > 转换为块级元素
 
 ```css
