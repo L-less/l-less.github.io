@@ -13,7 +13,7 @@ export const enNavbar = navbar([
   },
   {
     text: "Write",
-    icon: "fa-pencil-square",
+    icon: "pen-to-square",
     prefix: "https://gitee.com/L-less/blog/new/main/src/posts",
   },
 ]);
