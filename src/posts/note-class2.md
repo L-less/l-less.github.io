@@ -34,7 +34,7 @@ icon: pen-to-square
 </head>
 <p id="test">Test</p>
 ```
-3.标签选择器\
+3.标签选择器
 ```css
 <head>
 <sytle>
@@ -48,8 +48,10 @@ icon: pen-to-square
 css语法：\
 `display:inline`\
 > 转换为行内元素
+
 `display:block`\
 > 转换为块级元素
+
 ```css
 width:200px
 height:200px
