@@ -23,10 +23,10 @@ projects:
     desc: Detailed description of the article
     link: https://l-less.github.io/article/
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: my jekyll web site
-    desc: Detailed description of this custom item
-    link: https://l-less.github.io/h2o
+  - icon: https://gitee.com/static/images/logo-black.svg
+    name: add
+    desc: 在gitee上撰写博文
+    link: https://gitee.com/L-less/blog/new/main/src/posts
 
 footer: A.n.y
 ---
