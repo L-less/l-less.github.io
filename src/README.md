@@ -23,7 +23,7 @@ projects:
     desc: Detailed description of the article
     link: https://l-less.github.io/article/
 
-  - icon: https://gitee.com/static/images/logo-black.svg
+  - icon: link
     name: add
     desc: 在gitee上撰写博文
     link: https://gitee.com/L-less/blog/new/main/src/posts
