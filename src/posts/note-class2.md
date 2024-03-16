@@ -1,16 +1,14 @@
 ---
 title: 笔记-class2
 author: l-less
-tag:
-  -note
-  -css
-  -html
-category:
-  -note
+tag: 
+  - note
+  - css
+  - html
+category: 
+  - note
 icon: pen-to-square
 ---
-# class2
-## css部分
 元素选择器 \
 1.类选择器
 ```css
