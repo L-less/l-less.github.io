@@ -11,25 +11,25 @@ icon: pen-to-square
 ---
 # class2
 ## css部分
-元素选择器 
-1.类选择器\
+元素选择器 \
+1.类选择器
 ```css
 <head>
 <sytle>
-        .test{
-        ...
-        }
+   .test{
+      ...
+   }
 </style>
 </head>
 <p class="test">Test</p>
 ```
-2.id选择器\
+2.id选择器
 ```css
 <head>
 <sytle>
-        #test{
-        ...
-        }
+   #test{
+      ...
+   }
 </style>
 </head>
 <p id="test">Test</p>
@@ -38,9 +38,9 @@ icon: pen-to-square
 ```css
 <head>
 <sytle>
-        p{
-        ...
-        }
+   p{
+      ...
+   }
 </style>
 </head>
 <p>Test</p>
@@ -65,4 +65,4 @@ css定位：\
 静态定位：static（position默认值）\
 相对位置：relative\
 绝对位置：absolute\
-固定位置：fixed\
+固定位置：fixed
