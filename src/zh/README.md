@@ -23,10 +23,10 @@ projects:
     desc: 文章详细描述
     link: https://l-less.github.io/article/
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 该站的jekyll版本
-    desc: jekyll
-    link: https://l-less.github.io/h2o
+  - icon: https://gitee.com/static/images/logo-black.svg
+    name: add
+    desc: 在gitee上撰写博文
+    link: https://gitee.com/L-less/blog/new/main/src/posts
 
 footer: A.n.y
 ---
