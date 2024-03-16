@@ -11,9 +11,4 @@ export const enNavbar = navbar([
       { text: "class-note-1", icon: "pen-to-square", link: "dragonfruit" },
     ],
   },
-  {
-    text: "Write",
-    icon: "pen-to-square",
-    prefix: "https://gitee.com/L-less/blog/new/main/src/posts",
-  },
 ]);
