@@ -59,6 +59,7 @@ height:200px
 background-color:blue
 ```
 > 设置背景色
+
 css定位：\
 设置positions属性\
 静态定位：static（position默认值）\
