@@ -17,4 +17,10 @@ vuepress可能更适用一个**生活兼技术的分享性博客**，就像**QQ�
 由于vuepress基于node.js,所以安装nodejs是必要的
 ::: warning
 VuePress 需要 Node.js (opens new window)>= 8.6
-在处理好nodejs后
+在处理好nodejs后，使用
+```sh
+npm init vuepress-theme-hope@latest 文件夹名
+```
+初始化vuepress-hope
+::: tip
+在初始化时，一定要选择blog而非docs，否则生产的是一个文档中心而非博客\
