@@ -21,6 +21,8 @@ VuePress 需要 Node.js (opens new window)>= 8.6
 ```sh
 npm init vuepress-theme-hope@latest 文件夹名
 ```
+:::
 初始化vuepress-hope
 ::: tip
 在初始化时，一定要选择blog而非docs，否则生产的是一个文档中心而非博客\
+:::
